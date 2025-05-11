@@ -1,6 +1,6 @@
 <?php
 
-use Juzaweb\HtmlDom;
+use Juzaweb\HtmlDom\HtmlDom;
 
 define('HDOM_TYPE_ELEMENT', 1);
 define('HDOM_TYPE_COMMENT', 2);
